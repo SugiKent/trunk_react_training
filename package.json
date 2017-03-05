@@ -2,6 +2,7 @@
   "name": "react-nearby-search",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://myname.github.io/trunk_react_training",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^15.4.2",
